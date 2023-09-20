@@ -1,0 +1,6 @@
+Name, Score
+Ameena, 65
+Arputharaj, 75
+Banumathi, 56
+Damodaran, 78
+Elango, 49
